@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheLegendCoder
 - 👀 I’m interested in .Net Framework
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning A.I and Machine Learning
 - 💞️ I’m looking to collaborate on any projects that I find interesting
 - 📫 How to reach me hopendawonde@gmail.com
 
