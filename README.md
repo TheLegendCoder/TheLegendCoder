@@ -1,5 +1,5 @@
 - 👋 Hi, Tsholofelo Ndawonde
-- 👀 I’m interested in .Net Framework
+- 👀 I’m interested in .NET Framework
 - 🌱 I’m currently learning A.I and Machine Learning
 - 💞️ I’m looking to collaborate on any projects that I find interesting
 - 📫  I’m on Twitter https://twitter.com/coder_legend
